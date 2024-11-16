@@ -7,10 +7,8 @@ AtliQ Hardware (imaginary company) is one of the leading computer hardware produ
 ## 📑 Problem Statement:
 
 ▶ The management noticed that they do not get enough insights to make quick and smart data-informed decisions.
-
 ▶ There are 10 ad-hoc requests for which the company needs insights.
 
-▶ Run a SQL Query to answer these requests.
 
 ## 📋 Requests:
 
@@ -33,3 +31,8 @@ AtliQ Hardware (imaginary company) is one of the leading computer hardware produ
 * Which channel helped to bring more gross sales in the fiscal year 2021 and the percentage of contribution? The final output contains these fields, channel gross_sales_mln percentage
 
 * Get the Top 3 products in each division that have a high total_sold_quantity in the fiscal_year 2021? The final output contains these fields, division product_code,product total_sold_quantity rank_order
+
+
+## 𝐊𝐞𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 𝐭𝐡𝐞 𝐏𝐫𝐨𝐣𝐞𝐜𝐭:
+
+Revised important SQL concepts like WHERE CLAUSE, GROUP BY, ORDER BY, JOINS, USING, CTE, WINDOW FUNCTION, etc. Creating Visuals in Power BI & Presenting Insights using Microsoft PowerPoint.
