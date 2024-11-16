@@ -1,4 +1,4 @@
-# SQL-Consumer-Goods-Ad-Hoc-Insights
+# SQL-Consumer Goods Ad-Hoc Insights
 
 ## 👋 Introduction 
 
